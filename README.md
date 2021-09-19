@@ -1,1 +1,1 @@
-# nextjs-auth
+# Next.js Authentication Boilerplate
